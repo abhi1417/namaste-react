@@ -1,0 +1,27 @@
+#child {
+    margin: 0 10px;
+}
+#heading {
+    color: #fff;
+    background: blue;
+    padding: 10px;
+    text-align: center;
+}
+#headingh2 {
+    color: #fff;
+    background: red;
+    padding: 10px;
+    text-align: center;
+}
+#heading1 {
+    color: #000;
+    background: yellow;
+    padding: 10px;
+    text-align: center;
+}
+#headingh21 {
+    color: #fff;
+    background: black;
+    padding: 10px;
+    text-align: center;
+}
